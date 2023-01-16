@@ -1,0 +1,3 @@
+Novo documento de texto ! 
+
+Utilizado na demo do Git - Github

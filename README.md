@@ -17,3 +17,6 @@ João Coelho
 </td>
 </tr>
 </table>
+
+### Prazo de Entrega
+Final de Janeiro de 2023
